@@ -1,4 +1,4 @@
-a = "du"
+a = "jeg"
 while True:
   if a == "Stopp":
     print("Koding er gøy!!!")
